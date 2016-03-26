@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Tinkernauts]]></title>
-        <description><![CDATA[Tinkernauts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Home of Victoria Tinderwood: Tinker Tales Book 1]]></title>
+        <description><![CDATA[The Home of Victoria Tinderwood: Tinker Tales Book 1]]></description>
+        <link>http://www.tinkernauts.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 00:50:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 01:01:47 GMT</lastBuildDate>
+        <atom:link href="http://www.tinkernauts.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ea02b92-d785-4d55-bb78-3093ceab4d5d.png">]]></description>
-            <link>undefined69c87b2e-bdfe-407f-bd64-344fb0dda324/index.html</link>
+            <link>http://www.tinkernauts.com/69c87b2e-bdfe-407f-bd64-344fb0dda324/index.html</link>
             <guid isPermaLink="false">69c87b2e-bdfe-407f-bd64-344fb0dda324</guid>
-            <pubDate>Sat, 26 Mar 2016 00:50:30 GMT</pubDate>
+            <pubDate>Sat, 26 Mar 2016 01:01:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
