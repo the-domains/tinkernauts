@@ -1,29 +1,41 @@
-name: Tinkernauts
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0
 title: The Home of Victoria Tinderwood
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-75634407-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5808721049688756
+  brandStrength: 0.4820789
+  lightness: 0.6794047618750483
   brandColors:
     - '#f7e895'
     - '#6c6448'
     - '#ff7fff'
     - '#000000'
     - '#ff00ff'
-  brandStrength: 0.1875
-  lightness: 0.6794047618750483
-  saturation: 0.5808721049688756
   rhythmicContrast: 0.3015325756277889
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-75634407-1
+  facebook: null
+favicon: null
+name: Tinkernauts
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0
+layout_spectrum: 1
