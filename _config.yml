@@ -2,7 +2,7 @@ name: Tinkernauts
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0
-title: The Home of Victoria Tinderwood
+title: 'Victoria Tinderwood: Tinkernauts Book 1'
 collections:
   - index:
       path: /
