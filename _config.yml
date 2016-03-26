@@ -1,0 +1,28 @@
+name: Tinkernauts
+favicon: null
+layout_spectrum: 0.02088842960074544
+typography_spectrum: 0.5689055535476655
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.15432933950796723
+  lightness: 0.6794047618750483
+  saturation: 0.5808721049688756
+  rhythmicContrast: 0.3015325756277889
+purpose: []
