@@ -1,6 +1,6 @@
 name: Tinkernauts
 favicon: null
-layout_spectrum: 0.02088842960074544
+layout_spectrum: 1
 typography_spectrum: 0.5689055535476655
 title: 'The Home of Victoria Tinderwood: Tinker Tales Book 1'
 cta:
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.15432933950796723
+    - '#f7e895'
+    - '#6c6448'
+    - '#ff7fff'
+    - '#000000'
+    - '#ff00ff'
+  brandStrength: 0.3125
   lightness: 0.6794047618750483
   saturation: 0.5808721049688756
   rhythmicContrast: 0.3015325756277889
